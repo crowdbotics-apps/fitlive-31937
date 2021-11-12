@@ -10,6 +10,12 @@ export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
   },
+
+  undefined: {
+    title: "Class Length",
+    copy: "Routes available!",
+    styles: styles
+  },
   undefined: {
     title: "Class Length",
     copy: "Routes available!",
