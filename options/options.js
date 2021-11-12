@@ -16,9 +16,20 @@ export const modulesOptions = {
     copy: "Routes available!",
     styles: styles
   },
+
   undefined: {
     title: "Class Length",
     copy: "Routes available!",
     styles: styles
+  },
+  "@modules/login": {
+    LOGO_URL: "",
+    BACKGROUND_URL: "",
+    HOME_SCREEN_NAME: "Home Screen",
+    validateEmail: "^[^\\s]+([.-]?\\w+)*@\\w+([.-]?\\w+)*(.\\w{2,3})+$",
+    SignInNavText: "Sign In",
+    SignUpNavText: "Sign Up",
+    SignInButtonText: "Login",
+    SignUpButtonText: "Sign Up"
   }
 }
