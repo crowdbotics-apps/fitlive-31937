@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "@modules/app-menu": "file:./modules/app-menu/",
-    "@modules/articles": "file:./modules/articles/",
     "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/privacy-policy": "file:./modules/privacy-policy",
