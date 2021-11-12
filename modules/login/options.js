@@ -26,8 +26,9 @@ SignInButtonText/SignUpButtonText: These two options control your button text.
 */
 
 export default {
-  LOGO_URL: https://drive.google.com/file/d/1xDlGWJ1wvcpPn6QGxtSIcn8i_tWNXm6H/view?usp=sharing
-  HOME_SCREEN_NAME: "Home Screen",https://drive.google.com/file/d/1eiW61LHDzz3yOfrzyje3kCvxc20yKct5/view?usp=sharing
+  LOGO_URL: "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png",
+  BACKGROUND_URL: "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/halfbg.png",
+  HOME_SCREEN_NAME: "Home Screen",
   validateEmail: "^[^\\s]+([\.-]?\\w+)*@\\w+([\.-]?\\w+)*(\.\\w{2,3})+$",
   SignInNavText: "Sign In",
   SignUpNavText: "Sign Up",
